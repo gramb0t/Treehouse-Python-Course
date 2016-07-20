@@ -1,7 +1,4 @@
-# shopping_list.py
-The shopping list program from @teamtreehouse
+# gramb0ts TeamTreehouse Repo
+## Programs and code while learning from @teamtreehouse
 
-adds items to a list,
-shows the number or items next to the input carrat
-
-nice and simple, i like python.
+This is where everything will go.
