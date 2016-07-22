@@ -15,7 +15,7 @@ def too_low() :
 def game() :
     # make a random number between 1-10
     secret_num = random.randint(1, 10)
-    tries = 1
+    guesses = []
     
     #limit number of guesses
     #catch type error
@@ -51,7 +51,7 @@ def game() :
                     if guess > secret_num :
                         too_high()
                     else:
-                        too_low()
+                        too_low
                     
 
 game()
